@@ -1,4 +1,6 @@
-xeditscript
-===========
+xEdit Scripting
+===============
 
-Scripting engine for TES4/FO3/FNV/TES5Edit
+```pascal
+v := GetElementEditValues(e, 'TNAM');
+```
